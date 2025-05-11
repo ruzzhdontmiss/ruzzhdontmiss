@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushat Yadav — Aspiring ML & Data Science Engineer
 
-<!--
-**ruzzhdontmiss/ruzzhdontmiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm passionate about solving real-world problems with **machine learning** and **data-driven insights**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 🔬 Machine Learning & Data Science
+- 🧹 **EDA & Data Visualization**: Matplotlib, Seaborn, Plotly
+- 🧠 **ML & Deep Learning**: Scikit-learn, TensorFlow, PyTorch
+- 🧮 **Numerical Computing**: Pandas, NumPy
+- 💾 **Databases**: SQL (MySQL, PostgreSQL)
+
+### 💻 Web & App Development
+- ⚛️ **Frontend**: React.js, Next.js
+- 🧑‍💻 **Languages**: TypeScript, JavaScript
+- 🔧 **Tools**: Git, VSCode, Postman, Netlify, Vercel
+
+---
+
+
+## 📈 I'm Currently Learning
+- MLOps & model deployment
+- Advanced deep learning architectures
+- Real-time data processing with Python
+
+---
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/rushat-yadav-037512256/?originalSubdomain=in)
+- 📧 Email: rushaty02@gmail.com
+
+---
+
+_“The best way to learn is by building — and I’m building every day.”_
