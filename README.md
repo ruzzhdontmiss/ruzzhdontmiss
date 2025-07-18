@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rushat Yadav — Aspiring ML & Data Science Engineer
+# 👋 Hi, I'm Rushat Yadav — Aspiring Full Stack & ML Engineer
 
 🎯 I'm passionate about solving real-world problems with **machine learning** and **data-driven insights**. 
 
